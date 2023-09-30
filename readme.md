@@ -1,3 +1,5 @@
+> Archive notes: written for a co-worker as a working example of 1.) basic OOP concepts 2.) web scraping and 3.) data analytics in PHP
+
 # CJ Stats
 
 A proof of concept PHP framework for creating a stats scraper library for legacy Gannett articles.
